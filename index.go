@@ -27,7 +27,7 @@ var Password = func() string {
 	if s := os.Getenv("PASSWORD"); s != "" {
 		return s
 	} else {
-		return "123456"
+		return "ccjj112233445566123456"
 	}
 }()
 
